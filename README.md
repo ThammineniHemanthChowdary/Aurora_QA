@@ -276,4 +276,4 @@ If deploying on Render or similar:
 ✔ Public GitHub repository  
 ✔ Service deployed (optional)  
 ✔ README with design notes & data insights  
-✔ Demonstration via Swagger UI or short video  
+✔ Demonstration via Swagger UI 
